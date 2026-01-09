@@ -4,6 +4,6 @@ Python program that imports the turtle module in order to perform math functions
 
 Prior to installation, ensure you have the latest version of python3 installed in your terminal
 
-To install repo, simply type "git clone " in your terminals command-line
+To install repo, simply type "git clone https://github.com/RavenTheBird789/Virus-Art" in your terminals command-line
 
 To run program, simply type "python3 virus.py" in your terminals command-line
